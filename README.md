@@ -1,4 +1,4 @@
-# 🚀 Service Booking App
+# Service Booking App
 
 A complete Service Booking Mobile Application built using **Flutter & Firebase** with **GetX State Management**.
 
